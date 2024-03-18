@@ -1,0 +1,9 @@
+.background-image{
+    width: 100vw;
+    height: 350px;
+}
+
+.navbar-brand{
+    color: green !important;
+    font-weight: 700;
+}
